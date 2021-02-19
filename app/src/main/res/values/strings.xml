@@ -5,6 +5,19 @@
         do indivíduo em relação à sua altura e assim indicar se está dentro do peso ideal,
         acima ou abaixo do peso desejado.\n\nPreencha os campos de peso e altura para descobrir o seu IMC</string>
     <string name="weigth">Peso (Kg)</string>
-    <string name="heigth">Altura (m)</string>
+    <string name="heigth">Altura (cm)</string>
     <string name="calc">Calcular</string>
+    <string name="fields_messages">Todos os campos, devem ser, maiores que zero.</string>
+
+    <string name="imc_severely_low_weigth">Severamente abaixo do peso</string>
+    <string name="imc_very_low_weigth">Muito abaixo do peso</string>
+    <string name="imc_low_weigth">Abaixo do peso</string>
+    <string name="normal">Normal</string>
+    <string name="imc_high_weigth">Acima do Peso</string>
+    <string name="imc_so_high_weigth">Moderamente obeso</string>
+    <string name="imc_severely_high_weigth">Severamente obeso</string>
+    <string name="imc_extreme_weigth">Extremamente obeso</string>
+    <string name="imc_responde">Imc: %1$.2f</string>
+    <string name="label_tmb">TMB</string>
+
 </resources>
